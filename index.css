@@ -2,9 +2,14 @@
 body{
 
 
-
-    /* position: flex center; */
-
-    background-color:bisque
+    height: 100vh;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    background-color:bisque;
+    background-image: url(./IMG_1243.JPG);
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    font-size: xx-large;
 
 }
